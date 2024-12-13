@@ -1,1 +1,1 @@
-# SkinDiseaseClassification-
+# SkinDiseaseClassification
